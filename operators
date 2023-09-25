@@ -1,0 +1,14 @@
+a=3
+b=4
+#arthmathic operators
+print("the value of 3+4 is",3+4)
+print("the value of 3-4 is",3-4)
+print("the value of 3*4 is",3*4)
+print("the value of 3/4 is",3/4)
+
+#assignment opreator
+a=34
+a-=12
+a*=12
+a/=12
+print(a)
